@@ -1,11 +1,25 @@
-# Patterson
+# Patterson Companies
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Patterson.
+This repository tracks APIs, SDKs, and developer resources for Patterson Companies, a value-added distributor of dental and animal health products serving the dental, companion-pet veterinarian, and production-animal markets.
+
+**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/patterson/refs/heads/main/apis.yml)
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public developer API has been identified at this time. This repository will be updated if a developer program, partner API, or B2B integration data feed is published.
+
+## Tags
+
+- Distribution
+- Dental
+- Animal Health
+- Veterinary
 
 ## Properties
 
-- [Website](https://www.patterson.com)
+- [Website](https://www.pattersoncompanies.com)
+
+## Maintainers
+
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
