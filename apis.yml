@@ -16,6 +16,8 @@ tags:
   - Veterinary
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/patterson-companies-inc
   - type: Website
     url: https://www.pattersoncompanies.com
 maintainers:
