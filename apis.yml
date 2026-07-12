@@ -16,6 +16,8 @@ tags:
   - Veterinary
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/patterson-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/patterson-companies-inc
   - type: Website
